@@ -1,5 +1,5 @@
 const express = require('express');
-const Paywant = require('./Paywant'); // Modülü dahil et
+const Paywant = require('./paywant'); // Modülü dahil et
 
 const app = express();
 
